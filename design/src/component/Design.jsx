@@ -34,6 +34,7 @@ const Design = () => {
                     </div>
                     <img className="redcircleimg" src={redcircle} alt="redcircle"></img>
                 </div>
+
                 <div className="cyldiv">
                     <img className="cylimg" src={cyl} alt="cyl"></img>
                 </div>
@@ -44,7 +45,7 @@ const Design = () => {
                     </div>
 
                     <div className="price2">
-                        <span style={{color: "#FCAF30", fontSize: "20px"}}>PRICE IS:</span> <br />
+                        <span style={{color: "#FCAF30", fontSize: "20px", marginLeft: "4rem"}}>PRICE IS:</span> <br />
                         <span style={{marginRight: "1.5rem"}}>#650,000 | 300</span> <br />
                         <span style={{marginTop: "-0.5rem", fontSize: "15px", position: "absolute", marginLeft: "10.7rem"}}>sqm</span>
                         <span>#1,000,000 | 500</span>
@@ -149,17 +150,17 @@ const Design = () => {
                     <div className="linediv">
                         <img className="lineimg" src={line} alt="line"></img>
                     </div>
-                        <p style={{color: "#fff", marginLeft: "49rem", position: "absolute", marginTop: "83.2rem"}}>6 Months Plan Available</p>
-                        <p style={{color: "#fff", marginLeft: "60.5rem", position: "absolute", marginTop: "86rem", fontSize: "35px"}}>L A N D M A R K</p>
-                        <p style={{color: "#fff", marginLeft: "7rem", position: "absolute", marginTop: "86rem", fontSize: "35px"}}>SITE INSPECTION TAKE PLACE ON</p>
-                        <p style={{color: "#fff", marginLeft: "7rem", position: "absolute", marginTop: "88.5rem", fontSize: "35px", fontWeight: "bold"}}>WEDNESDAY & SATURDAY</p>
-                        <p style={{color: "#fff", marginLeft: "10rem", position: "absolute", marginTop: "100rem", fontSize: "35px"}}>315 HERBERT MACAULEY WAY SABO</p>
-                        <p style={{color: "#fff", marginLeft: "10rem", position: "absolute", marginTop: "102.2rem", fontSize: "35px"}}>YABA LAGOS</p>
-                        <p style={{color: "#FCAF30", marginLeft: "64rem", position: "absolute", marginTop: "90rem", fontSize: "25px"}}>YABATECH</p> <br />
-                        <p style={{color: "#FCAF30", marginLeft: "59rem", position: "absolute", marginTop: "90.5rem", fontSize: "25px"}}>AUGUSTINE UNIVERSITY</p>
-                        <p style={{color: "#fff", marginLeft: "62.3rem", position: "absolute", marginTop: "95.5rem", fontSize: "20px"}}>ACCOUNT DETAILS</p>
-                        <p style={{color: "#FCAF30", marginLeft: "64rem", position: "absolute", marginTop: "98rem", fontSize: "20px"}}>0465073660</p>
-                        <p style={{color: "#FCAF30", marginLeft: "61rem", position: "absolute", marginTop: "100.5rem", fontSize: "20px"}}>Propadi Limited | GTBank</p>
+                        <p style={{color: "#fff", marginLeft: "46rem", position: "absolute", marginTop: "83.2rem"}}>6 Months Plan Available</p>
+                        <p style={{color: "#fff", marginLeft: "54.5rem", position: "absolute", marginTop: "86rem", fontSize: "35px"}}>L A N D M A R K</p>
+                        <p style={{color: "#fff", marginLeft: "2rem", position: "absolute", marginTop: "86rem", fontSize: "35px"}}>SITE INSPECTION TAKE PLACE ON</p>
+                        <p style={{color: "#fff", marginLeft: "2rem", position: "absolute", marginTop: "88.5rem", fontSize: "35px", fontWeight: "bold"}}>WEDNESDAY & SATURDAY</p>
+                        <p style={{color: "#fff", marginLeft: "6rem", position: "absolute", marginTop: "100rem", fontSize: "35px"}}>315 HERBERT MACAULEY WAY SABO</p>
+                        <p style={{color: "#fff", marginLeft: "6rem", position: "absolute", marginTop: "102.2rem", fontSize: "35px"}}>YABA LAGOS</p>
+                        <p style={{color: "#FCAF30", marginLeft: "58rem", position: "absolute", marginTop: "90rem", fontSize: "25px"}}>YABATECH</p> <br />
+                        <p style={{color: "#FCAF30", marginLeft: "53rem", position: "absolute", marginTop: "90.5rem", fontSize: "25px"}}>AUGUSTINE UNIVERSITY</p>
+                        <p style={{color: "#fff", marginLeft: "56rem", position: "absolute", marginTop: "95.5rem", fontSize: "20px"}}>ACCOUNT DETAILS</p>
+                        <p style={{color: "#FCAF30", marginLeft: "58rem", position: "absolute", marginTop: "98rem", fontSize: "20px"}}>0465073660</p>
+                        <p style={{color: "#FCAF30", marginLeft: "55rem", position: "absolute", marginTop: "100.5rem", fontSize: "20px"}}>Propadi Limited | GTBank</p>
 
                     <div className="square2div">
                         <img className="square2img" src={square2} alt="square2"></img>
