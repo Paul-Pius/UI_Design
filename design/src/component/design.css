@@ -1,0 +1,335 @@
+.backgroundcontainer {
+    background-image: url("../img/backimg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 800px;
+}
+
+.logodiv{
+    display: flex;
+    gap: 25rem;
+    justify-content: space-around;
+}
+
+.logo {
+    margin-top: 0.5rem;
+    width: 100px;
+    height: 40px;
+}
+
+.gardensdiv {
+    display: flex;
+    gap: 25rem;
+    justify-content: space-around;
+}
+
+.garden {
+    margin-top: -2rem;
+    margin-right: 2rem;
+    font-size: 50px;
+}
+
+.propadi {
+    margin-right: 3rem;
+    margin-top: -2.5rem;
+    font-size: 50px;
+}
+
+.epe {
+    display: flex;
+    gap: 25rem;
+    justify-content: space-around;
+}
+
+.assistant {
+    margin-left: 12rem;
+    font-size: 13px;
+    margin-top: -3.5rem;
+}
+
+.mojoda {
+    margin-left: 4rem;
+    margin-top: -3rem;
+    font-size: 20px;
+    color: red;
+}
+
+.foothr {
+    margin-top: 22rem;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+    width: 700px;
+    height: 5px;
+    border-radius: 5px;
+    border-color: #FCAF30;
+    background: #FCAF30;
+}
+
+.sixmonths {
+    color: #fff;
+    margin-left: 20rem;
+    margin-top: -3rem;
+}
+
+.plan {
+    position: absolute;
+    display: flex;
+}
+
+.box {
+    position: absolute;
+    height: 50px;
+    width: 30%;
+    border: 3px solid #FCAF30;
+    margin-left: 10rem;
+    margin-top: 2.5rem;
+}
+
+.box2 {
+    position: absolute;
+    height: 150px;
+    width: 30%;
+    border: 3px solid #FCAF30;
+    margin-left: 60rem;
+}
+
+.boxdiv {
+    display: flex;
+    gap: 10rem;
+}
+
+.site {
+    color: #fff;
+    margin-top: -1rem;
+    margin-left: 10rem;
+}
+
+.wednesday {
+    color: #fff;
+    margin-left: -26.8rem;
+    margin-top: 0.5rem;
+}
+
+.sabo {
+    color: #fff;
+    margin-top: 7rem;
+    margin-left: -25.5rem;
+}
+
+.yaba {
+    color: #fff;
+    margin-top: 8rem;
+    margin-left: -28rem;
+}
+
+.landmark {
+    color: #fff;
+    margin-left: 43rem;
+    margin-top: -0.5rem;
+}
+
+.shape1div {
+    display: flex;
+    position: absolute;
+    margin-top: 28rem;
+    width: 105%;
+}
+
+.shape1img {
+    width: 105%;
+    height: 1400px;
+}
+
+.redcirclediv {
+    display: flex;
+    position: absolute;
+    margin-top: 33rem;
+    margin-left: 34.5rem;
+    z-index: 1;
+}
+
+.redcircleimg {
+    height: 300px;
+    margin-top: 2rem;
+}
+
+.greenrecdiv {
+    position: absolute;
+    width: 70%;
+    margin-top: 64rem;
+    z-index: 1;
+    margin-left: 43.3rem;
+}
+
+.greenrecimg {
+    width: 50%;
+    z-index: 1;
+}
+
+.linediv {
+    position: absolute;
+    margin-top: 83rem;
+    width: 20px;
+}
+
+.lineimg {
+    margin-left: 5rem;
+}
+
+.square1div {
+    position: absolute;
+    margin-top: 86rem;
+    margin-left: 50rem;
+    display: flex;
+}
+
+.square1img {
+    height: 300%;
+}
+
+.square2div {
+    position: absolute;
+    margin-top: 93rem;
+    margin-left: 7rem;
+}
+
+.square2img {
+    width: 60%;
+}
+
+.locdiv {
+    position: absolute;
+    margin-left: -43rem;
+    margin-top: 14rem;
+}
+
+.locimg {
+    width: 35px;
+}
+
+.cyldiv {
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 55rem;
+    z-index: 1;
+}
+
+.cylimg {
+    width: 100%;
+    height: 400px;
+}
+
+.circle {
+    position: absolute;
+    height: 300px;
+    border-radius: 300px;
+    width: 23%;
+    margin-top: 35.1rem;
+    margin-left: 34.3rem;
+    background: #fff;
+    z-index: 1;
+}
+
+.blackdiv {
+    position: absolute;
+    height: 70px;
+    width: 180px;
+    background: black;
+    margin-left: 27rem;
+    margin-top: 12rem;
+    border-radius: 15px;
+    opacity: 0.5;
+}
+
+.tf {
+    position: absolute;
+    margin-left: 6rem;
+    margin-top: 6rem;
+    color: #fff;
+}
+
+.title {
+    margin-left: 6rem;
+}
+
+.free {
+    font-size: 40px;
+    margin-top: -1rem;
+    margin-left: 1rem;
+}
+
+.six {
+    position: absolute;
+    color: #fff;
+    margin-left: 11rem;
+    margin-top: 3rem;
+    font-size: 25px;
+}
+
+.sixx {
+    position: absolute;
+    color: #fff;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    font-size: 250px;
+}
+
+.initial {
+    position: absolute;
+    color: #fff;
+    margin-left: 3rem;
+    font-size: 40px;
+}
+
+.deposit {
+    margin-top: -1rem;
+}
+
+.init {
+    font-size: 20px;
+    margin-right: 13rem;
+}
+
+.blkdetails {
+    position: absolute;
+    color: #fff;
+}
+
+.price2 {
+    position: absolute;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 12rem;
+    margin-left: 3rem;
+}
+
+.list {
+    position: absolute;
+    color: #fff;
+    text-align: left;
+    font-size: 40px;
+    margin-left: 15rem;
+    margin-top: 25rem;
+}
+
+.feature {
+    color: black;
+    position: absolute;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 25rem;
+    margin-left: -3.3rem;
+    z-index: 1;
+    transform: rotate(270deg)
+}
+
+.womandiv {
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: 24rem;
+}
+
+.womanimg {
+    width: 1360px;
+}
